@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "book1",
+        "stock": 30
+    },
+    {
+        "id": 2,
+        "name": "book2",
+        "stock": 40
+    },
+    {
+        "id": 3,
+        "name": "book3",
+        "stock": 3
+    },
+    {
+        "id": 4,
+        "name": "book4",
+        "stock": 0
+    },
+    {
+        "id": 5,
+        "name": "book5",
+        "stock": 1
+    },
+    {
+        "id": 6,
+        "name": "book6",
+        "stock": 10
+    }
+]
